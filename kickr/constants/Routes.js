@@ -1,0 +1,1 @@
+export const ROOT = 'https://kicker.dbvy.be';
