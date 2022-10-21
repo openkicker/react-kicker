@@ -35,7 +35,7 @@
     "react-native-modal": "^11.5.3",
     "react-native-multiple-select": "^0.5.3",
     "react-native-odoo-promise-based": "^0.6.4",
-    "react-native-reanimated": "~1.2.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-screens": "~1.0.0-alpha.23",
     "react-native-select-two": "^1.0.6",
     "react-native-table-component": "^1.2.1",
